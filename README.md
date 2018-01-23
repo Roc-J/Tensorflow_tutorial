@@ -1,0 +1,7 @@
+# Introduction
+
+深度学习之卷积神经网络CNN及tensorflow代码实现
+
+MNIST_data和graph_demo 是按照官网教程进行的学习实现。
+
+deep_learning_CNN_implement_mnist是使用卷积神经网络CNN实现sklearn包自带的mnist手写识别的例子，这个精度达到了99.9%
